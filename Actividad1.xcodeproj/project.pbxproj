@@ -12,6 +12,23 @@
 		8413F65D21E3D32F00F12EC0 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8413F65B21E3D32F00F12EC0 /* Main.storyboard */; };
 		8413F65F21E3D32F00F12EC0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8413F65E21E3D32F00F12EC0 /* Assets.xcassets */; };
 		8413F66221E3D32F00F12EC0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8413F66021E3D32F00F12EC0 /* LaunchScreen.storyboard */; };
+		8413F66F21E3D98F00F12EC0 /* RegistroViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8413F66E21E3D98F00F12EC0 /* RegistroViewController.swift */; };
+		8413F67121E3D9A200F12EC0 /* AdminViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8413F67021E3D9A200F12EC0 /* AdminViewController.swift */; };
+		8413F67321E3D9B400F12EC0 /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8413F67221E3D9B400F12EC0 /* LoginViewController.swift */; };
+		8413F67521E3DA0900F12EC0 /* RecoverPasswordViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8413F67421E3DA0900F12EC0 /* RecoverPasswordViewController.swift */; };
+		8413F67921E3DB9200F12EC0 /* PersonaModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8413F67821E3DB9200F12EC0 /* PersonaModel.swift */; };
+		8413F67B21E3DD1F00F12EC0 /* GetDataInfoPersistence.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8413F67A21E3DD1F00F12EC0 /* GetDataInfoPersistence.swift */; };
+		8413F69E21E3EDBF00F12EC0 /* PersonaCore().swift in Sources */ = {isa = PBXBuildFile; fileRef = 8413F69D21E3EDBF00F12EC0 /* PersonaCore().swift */; };
+		8413F6D521E642BE00F12EC0 /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8413F6D421E642BE00F12EC0 /* Constants.swift */; };
+		8413F6D721E6472000F12EC0 /* Extensiones.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8413F6D621E6472000F12EC0 /* Extensiones.swift */; };
+		84F9B83C21E78B69004CB148 /* empleadoModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84F9B83B21E78B69004CB148 /* empleadoModel.swift */; };
+		84F9B83E21E791A3004CB148 /* EmpleadosViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84F9B83D21E791A3004CB148 /* EmpleadosViewController.swift */; };
+		84F9B84021E7952D004CB148 /* CeldaEmpleadosTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84F9B83F21E7952D004CB148 /* CeldaEmpleadosTableViewCell.swift */; };
+		84F9B86521E7ACE6004CB148 /* RutaDetailsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84F9B86421E7ACE6004CB148 /* RutaDetailsViewController.swift */; };
+		84F9B86721E7B79D004CB148 /* ruta.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84F9B86621E7B79C004CB148 /* ruta.swift */; };
+		84F9B86A21E7B7F5004CB148 /* Model.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 84F9B86821E7B7F5004CB148 /* Model.xcdatamodeld */; };
+		84F9B86C21E7BA75004CB148 /* NuevoEmpleadoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84F9B86B21E7BA75004CB148 /* NuevoEmpleadoViewController.swift */; };
+		84F9B86E21E8F153004CB148 /* loginResult.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84F9B86D21E8F153004CB148 /* loginResult.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +39,23 @@
 		8413F65E21E3D32F00F12EC0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8413F66121E3D32F00F12EC0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8413F66321E3D32F00F12EC0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8413F66E21E3D98F00F12EC0 /* RegistroViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RegistroViewController.swift; sourceTree = "<group>"; };
+		8413F67021E3D9A200F12EC0 /* AdminViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AdminViewController.swift; sourceTree = "<group>"; };
+		8413F67221E3D9B400F12EC0 /* LoginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
+		8413F67421E3DA0900F12EC0 /* RecoverPasswordViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecoverPasswordViewController.swift; sourceTree = "<group>"; };
+		8413F67821E3DB9200F12EC0 /* PersonaModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PersonaModel.swift; sourceTree = "<group>"; };
+		8413F67A21E3DD1F00F12EC0 /* GetDataInfoPersistence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GetDataInfoPersistence.swift; sourceTree = "<group>"; };
+		8413F69D21E3EDBF00F12EC0 /* PersonaCore().swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "PersonaCore().swift"; sourceTree = "<group>"; };
+		8413F6D421E642BE00F12EC0 /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
+		8413F6D621E6472000F12EC0 /* Extensiones.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = Extensiones.swift; path = Actividad1/App/Extensiones.swift; sourceTree = SOURCE_ROOT; };
+		84F9B83B21E78B69004CB148 /* empleadoModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = empleadoModel.swift; sourceTree = "<group>"; };
+		84F9B83D21E791A3004CB148 /* EmpleadosViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EmpleadosViewController.swift; sourceTree = "<group>"; };
+		84F9B83F21E7952D004CB148 /* CeldaEmpleadosTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CeldaEmpleadosTableViewCell.swift; sourceTree = "<group>"; };
+		84F9B86421E7ACE6004CB148 /* RutaDetailsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RutaDetailsViewController.swift; sourceTree = "<group>"; };
+		84F9B86621E7B79C004CB148 /* ruta.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ruta.swift; sourceTree = "<group>"; };
+		84F9B86921E7B7F5004CB148 /* Model.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = Model.xcdatamodel; sourceTree = "<group>"; };
+		84F9B86B21E7BA75004CB148 /* NuevoEmpleadoViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NuevoEmpleadoViewController.swift; sourceTree = "<group>"; };
+		84F9B86D21E8F153004CB148 /* loginResult.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = loginResult.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,14 +88,79 @@
 		8413F65621E3D32F00F12EC0 /* Actividad1 */ = {
 			isa = PBXGroup;
 			children = (
-				8413F65721E3D32F00F12EC0 /* AppDelegate.swift */,
-				8413F65921E3D32F00F12EC0 /* ViewController.swift */,
+				8413F66921E3D84500F12EC0 /* App */,
 				8413F65B21E3D32F00F12EC0 /* Main.storyboard */,
+				8413F65721E3D32F00F12EC0 /* AppDelegate.swift */,
 				8413F65E21E3D32F00F12EC0 /* Assets.xcassets */,
 				8413F66021E3D32F00F12EC0 /* LaunchScreen.storyboard */,
 				8413F66321E3D32F00F12EC0 /* Info.plist */,
 			);
 			path = Actividad1;
+			sourceTree = "<group>";
+		};
+		8413F66921E3D84500F12EC0 /* App */ = {
+			isa = PBXGroup;
+			children = (
+				8413F67C21E3E07D00F12EC0 /* Core */,
+				8413F66D21E3D95B00F12EC0 /* Commons */,
+				8413F66C21E3D95300F12EC0 /* Controllers */,
+				8413F66B21E3D94200F12EC0 /* Persistence */,
+				8413F66A21E3D93600F12EC0 /* Models */,
+			);
+			path = App;
+			sourceTree = "<group>";
+		};
+		8413F66A21E3D93600F12EC0 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				84F9B86621E7B79C004CB148 /* ruta.swift */,
+				8413F67821E3DB9200F12EC0 /* PersonaModel.swift */,
+				84F9B83B21E78B69004CB148 /* empleadoModel.swift */,
+				84F9B86D21E8F153004CB148 /* loginResult.swift */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		8413F66B21E3D94200F12EC0 /* Persistence */ = {
+			isa = PBXGroup;
+			children = (
+				8413F67A21E3DD1F00F12EC0 /* GetDataInfoPersistence.swift */,
+				84F9B86821E7B7F5004CB148 /* Model.xcdatamodeld */,
+			);
+			path = Persistence;
+			sourceTree = "<group>";
+		};
+		8413F66C21E3D95300F12EC0 /* Controllers */ = {
+			isa = PBXGroup;
+			children = (
+				8413F65921E3D32F00F12EC0 /* ViewController.swift */,
+				8413F66E21E3D98F00F12EC0 /* RegistroViewController.swift */,
+				8413F67021E3D9A200F12EC0 /* AdminViewController.swift */,
+				8413F67221E3D9B400F12EC0 /* LoginViewController.swift */,
+				8413F67421E3DA0900F12EC0 /* RecoverPasswordViewController.swift */,
+				84F9B83D21E791A3004CB148 /* EmpleadosViewController.swift */,
+				84F9B86421E7ACE6004CB148 /* RutaDetailsViewController.swift */,
+				84F9B86B21E7BA75004CB148 /* NuevoEmpleadoViewController.swift */,
+			);
+			path = Controllers;
+			sourceTree = "<group>";
+		};
+		8413F66D21E3D95B00F12EC0 /* Commons */ = {
+			isa = PBXGroup;
+			children = (
+				8413F6D421E642BE00F12EC0 /* Constants.swift */,
+				8413F6D621E6472000F12EC0 /* Extensiones.swift */,
+				84F9B83F21E7952D004CB148 /* CeldaEmpleadosTableViewCell.swift */,
+			);
+			path = Commons;
+			sourceTree = "<group>";
+		};
+		8413F67C21E3E07D00F12EC0 /* Core */ = {
+			isa = PBXGroup;
+			children = (
+				8413F69D21E3EDBF00F12EC0 /* PersonaCore().swift */,
+			);
+			path = Core;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -135,8 +234,25 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8413F67521E3DA0900F12EC0 /* RecoverPasswordViewController.swift in Sources */,
+				84F9B86721E7B79D004CB148 /* ruta.swift in Sources */,
+				8413F69E21E3EDBF00F12EC0 /* PersonaCore().swift in Sources */,
+				84F9B84021E7952D004CB148 /* CeldaEmpleadosTableViewCell.swift in Sources */,
+				84F9B86E21E8F153004CB148 /* loginResult.swift in Sources */,
+				8413F67921E3DB9200F12EC0 /* PersonaModel.swift in Sources */,
+				8413F67B21E3DD1F00F12EC0 /* GetDataInfoPersistence.swift in Sources */,
+				8413F67121E3D9A200F12EC0 /* AdminViewController.swift in Sources */,
 				8413F65A21E3D32F00F12EC0 /* ViewController.swift in Sources */,
+				84F9B86A21E7B7F5004CB148 /* Model.xcdatamodeld in Sources */,
+				84F9B86C21E7BA75004CB148 /* NuevoEmpleadoViewController.swift in Sources */,
+				84F9B83C21E78B69004CB148 /* empleadoModel.swift in Sources */,
+				8413F66F21E3D98F00F12EC0 /* RegistroViewController.swift in Sources */,
+				8413F6D521E642BE00F12EC0 /* Constants.swift in Sources */,
+				84F9B83E21E791A3004CB148 /* EmpleadosViewController.swift in Sources */,
+				84F9B86521E7ACE6004CB148 /* RutaDetailsViewController.swift in Sources */,
+				8413F67321E3D9B400F12EC0 /* LoginViewController.swift in Sources */,
 				8413F65821E3D32F00F12EC0 /* AppDelegate.swift in Sources */,
+				8413F6D721E6472000F12EC0 /* Extensiones.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -334,6 +450,19 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCVersionGroup section */
+		84F9B86821E7B7F5004CB148 /* Model.xcdatamodeld */ = {
+			isa = XCVersionGroup;
+			children = (
+				84F9B86921E7B7F5004CB148 /* Model.xcdatamodel */,
+			);
+			currentVersion = 84F9B86921E7B7F5004CB148 /* Model.xcdatamodel */;
+			path = Model.xcdatamodeld;
+			sourceTree = "<group>";
+			versionGroupType = wrapper.xcdatamodel;
+		};
+/* End XCVersionGroup section */
 	};
 	rootObject = 8413F64C21E3D32F00F12EC0 /* Project object */;
 }
